@@ -1,1 +1,1 @@
-my second readme Updated
+How to be up to date in git
